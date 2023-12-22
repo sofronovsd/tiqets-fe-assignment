@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer render 1`] = `
+<div>
+  <footer
+    class="sc-bdfCDU kWSemn"
+  >
+    <span
+      class="sc-gsTDqH eioFxa"
+    >
+      © 2014-2021 Tiqets Amsterdam
+    </span>
+  </footer>
+</div>
+`;

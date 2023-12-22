@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header render 1`] = `
+<div>
+  <header
+    class="sc-bdfCDU eamTCr"
+  >
+    <h1
+      class="sc-gsTDqH jOfYXJ"
+    >
+      Plan your trip!
+    </h1>
+  </header>
+</div>
+`;
